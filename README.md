@@ -1,2 +1,2 @@
 # SPRING-MODULE
-## User Registration Module via Spring core,orm and mvc
+## User Registration Module via Spring (CORE, ORM & MVC)
